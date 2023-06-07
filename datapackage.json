@@ -10,6 +10,11 @@
     "nuts_code": "AT33",
     "region": "Tirol"
   },
+  "countryCode": "AT",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "f26011dc42bfc0c15d47e21af724181a",
   "language": "DE",
   "model": {
